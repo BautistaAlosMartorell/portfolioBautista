@@ -9,8 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@react-three/drei": "^9.121.3",
-    "@react-three/fiber": "^9.0.0-alpha.8",
     "clsx": "^2.1.1",
     "framer-motion": "^12.0.6",
     "mini-svg-data-uri": "^1.4.4",
@@ -25,7 +23,6 @@
     "scheduler": "^0.25.0",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
-    "three": "^0.172.0",
     "three-globe": "^2.41.4"
   },
   "devDependencies": {
